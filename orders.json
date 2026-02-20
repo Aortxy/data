@@ -11,6 +11,6 @@
     "ramOption": "panel2gb",
     "amount": 2000,
     "createdAt": 1771567625794,
-    "used": false
+    "used": true
   }
 }

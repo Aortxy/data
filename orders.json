@@ -1,1 +1,9 @@
-{}
+{
+  "ORD1771566819924TES3": {
+    "username": "tes3",
+    "ramOption": "unlimited",
+    "amount": 13000,
+    "createdAt": 1771566820545,
+    "used": false
+  }
+}
